@@ -459,7 +459,7 @@ section{
 }
 
 .main .content h2{
-  color: #fff;
+  color: rgba(75, 74, 74, 0.164);
   font-size: 2em;
   font-weight: 500;
 }
