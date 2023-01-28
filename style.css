@@ -690,3 +690,8 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
+
+img {
+  border-radius: 60%;
+}
