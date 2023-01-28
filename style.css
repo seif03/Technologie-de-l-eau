@@ -326,8 +326,10 @@ body{
   width: 70%;
   background: #661c1c;
 }
-
-
+.skills .content .col-right .bar .bureau:before{
+  width: 100%;
+  background: #a003c7;
+}
 .services .content{
   display: flex;
   justify-content: center;
