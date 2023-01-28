@@ -106,7 +106,7 @@ section{
 header{
   z-index: 999;
   position: fixed;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgb(53, 98, 247);
   top: 0;
   left: 0;
   width: 100%;
@@ -115,6 +115,7 @@ header{
   justify-content: space-between;
   align-items: center;
   transition: 0.5s ease;
+
 }
 
 header.sticky{
