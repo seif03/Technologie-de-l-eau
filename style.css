@@ -319,9 +319,14 @@ body{
 }
 
 .skills .content .col-right .bar .php:before{
-  width: 98%;
+  width: 100%;
   background: #6d7eb8;
 }
+.skills .content .col-right .bar .prima:before{
+  width: 70%;
+  background: #661c1c;
+}
+
 
 .services .content{
   display: flex;
